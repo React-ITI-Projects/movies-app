@@ -34,7 +34,8 @@ li {
   margin: 0px 20px;
 }
 
-a {
+a,
+Link {
   color: black;
   font-size: 20px;
   padding: 5px 0px;

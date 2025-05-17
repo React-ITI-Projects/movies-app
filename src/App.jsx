@@ -3,11 +3,7 @@ import "./App.css";
 import MovieList from "./views/MovieList";
 
 function App() {
-  return (
-    <div className="App">
-      <MovieList />
-    </div>
-  );
+  return <div className="App">{/* <MovieList /> */}</div>;
 }
 
 export default App;
